@@ -53,7 +53,3 @@ This API allows you to upload lab report images and extract structured data incl
    ```
 
 3. Open http://localhost:8000/docs in your browser to see the API documentation.
-
-## Deployment
-
-This API is deployed at: [YOUR-DEPLOYMENT-URL]
